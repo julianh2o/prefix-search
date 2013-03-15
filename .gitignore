@@ -1,0 +1,8 @@
+corpus
+processedCorpus
+*.class
+*.swp
+.DS_Store
+*.swo
+.classpath
+.project
